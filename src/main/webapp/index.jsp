@@ -12,5 +12,6 @@
     <a href="insert.jsp">Insert a record</a><br>
     <a href="getdata.jsp">Fetch a record with id</a><br>
     <a href="update.jsp">Update a record</a><br>
+    <a href="delete.jsp">Delete a record</a><br>
 </body>
 </html>
